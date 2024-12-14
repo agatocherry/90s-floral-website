@@ -10,3 +10,4 @@ This website is designed for **1080x1920** screen resolution, you can view the l
 ## Acknowledgements 🙏
 
 - The cherry blossom GIF used in this project was sourced from [DeviantArt](https://www.deviantart.com/ayshamostafiz/art/Cherry-Blossom-GIF-587203731) (@ayshamostafiz)
+- The pink pixel cursor is from [Custom Cursor](https://custom-cursor.com/fr/collection/color-pixels/baby-pink-pixel)

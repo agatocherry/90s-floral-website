@@ -1,14 +1,13 @@
 body {
-    background: #FB6F92;
-    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Baby_Pink_PixelCursor.png), default !important;
-
+    background: #A11D33;
+    cursor: url(https://cdn.custom-cursor.com/db/19516/32/color-pixels-fcordovan-cursor.png), default !important;
 }
 
 h1 {
     position: absolute;
     top: 3.5%;
     left: 13%;
-    color: #FB6F92;
+    color: #BD1F36;
     font-size: 40px;
     font-family: "Pixelify Sans", sans-serif;
 }
@@ -29,7 +28,7 @@ h1 {
 
 a { /* No blue color for the link */
     color: inherit;
-    cursor: url(https://cdn.custom-cursor.com/db/pointer/32/Baby_Pink_PixelPointer.png), pointer !important;
+    cursor: url(https://cdn.custom-cursor.com/db/19515/32/color-pixels-fcordovan-pointer.png), pointer !important;
 }
 
 footer {
