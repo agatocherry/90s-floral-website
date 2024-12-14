@@ -1,5 +1,5 @@
 body {
-    background: #A11D33;
+    background: #641220;
     cursor: url(https://cdn.custom-cursor.com/db/19516/32/color-pixels-fcordovan-cursor.png), default !important;
 }
 
@@ -7,7 +7,7 @@ h1 {
     position: absolute;
     top: 3.5%;
     left: 13%;
-    color: #BD1F36;
+    color: #85182A;
     font-size: 40px;
     font-family: "Pixelify Sans", sans-serif;
 }
@@ -19,11 +19,12 @@ h1 {
     width: 80%;
 }
 
-.cherry {
+.rose {
     position: absolute; 
     top: 50%;
     left: 50%; /* Position horizontale */
-    transform: translate(-114.75%, -52%); /* Centre l'image par rapport à la première */
+    transform: translate(-190%, -44%); /* Centre l'image par rapport à la première */
+    width: 20%;
 }
 
 a { /* No blue color for the link */
