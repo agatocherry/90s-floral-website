@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "red-alert";
+    src: url("fonts/red-alert.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     background: #641220;
     cursor: url(https://cdn.custom-cursor.com/db/19516/32/color-pixels-fcordovan-cursor.png), default !important;
@@ -9,7 +16,7 @@ h1 {
     left: 13%;
     color: #85182A;
     font-size: 40px;
-    font-family: "Pixelify Sans", sans-serif;
+    font-family: "red-alert", sans-serif;
 }
 
 .window { /* Link to an "class" with the HTML file */
@@ -19,12 +26,40 @@ h1 {
     width: 80%;
 }
 
+.subtitle {
+    position: absolute;
+    top: 3.5%;
+    left: 13%;
+    font-size: 15px;
+    font-family: "red-alert", sans-serif;
+    color: rgb(199, 140, 151);
+    font-style: italic;
+}
+
+.petals {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-10%, -50%);
+    width: 40%;
+}
+
 .rose {
     position: absolute; 
     top: 50%;
-    left: 50%; /* Position horizontale */
-    transform: translate(-190%, -44%); /* Centre l'image par rapport à la première */
+    left: 50%;
+    transform: translate(-165%, -44%);
     width: 20%;
+}
+
+.facts {
+    position: absolute;
+    top: 21%;
+    left: 47%;
+    font-size: 30px;
+    font-family: "red-alert", sans-serif;
+    color: rgb(139, 35, 54);
+    max-width: 700px;
 }
 
 a { /* No blue color for the link */
@@ -42,4 +77,3 @@ footer {
     color: #ffffff;
     font-family: Arial, sans-serif;
 }
-
