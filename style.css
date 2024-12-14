@@ -26,6 +26,10 @@ h1 {
     transform: translate(-114.75%, -52%); /* Centre l'image par rapport à la première */
 }
 
+a { /* No blue color for the link */
+    color: inherit;
+}
+
 footer {
     position: fixed;
     bottom: 0;
