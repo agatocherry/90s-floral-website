@@ -1,13 +1,12 @@
 @font-face {
     font-family: "red-alert";
-    src: url("https://github.com/agatocherry/90s-floral-website/blob/main/fonts/red-alert.ttf") format("truetype");
+    src: url("fonts/red-alert.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     background: #FB6F92;
-    font-family: "red-alert", sans-serif;
     cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Baby_Pink_PixelCursor.png), default !important;
 
 }
