@@ -18,6 +18,8 @@ h1 {
     color: #FB6F92;
     font-size: 40px;
     font-family: "red-alert", sans-serif;
+    /* font-family: "VT323", serif; */
+    
 }
 
 .window { /* Link to an "class" with the HTML file */
