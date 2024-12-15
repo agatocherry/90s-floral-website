@@ -4,6 +4,7 @@ My project for the Codédex Hackathon (December 2024): a cute and nostalgic 90s-
 #CodedexHackathon
 
 ## About the project 💻  
+![Preview](assets/images/preview.gif)
 This website is designed for **1080x1920** screen resolution. You can view the live site [here](https://90s-floral-website.vercel.app/).  
 I used Vercel to host the website and also integrated its analytics features.  
 
