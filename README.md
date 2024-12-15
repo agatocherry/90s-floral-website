@@ -5,7 +5,7 @@ My project for the Codédex Hackathon (December 2024): a cute and nostalgic 90s-
 
 ## About the project 💻
 
-This website is designed for **1080x1920** screen resolution, you can view the live site [here](https://agatocherry.github.io/90s-floral-website/).
+This website is designed for **1080x1920** screen resolution, you can view the live site [here](https://90s-floral-website.vercel.app/).
 
 ## Acknowledgements 🙏
 

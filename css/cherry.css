@@ -1,22 +1,25 @@
 @font-face {
     font-family: "red-alert";
-    src: url("./fonts/red-alert.ttf") format("truetype");
+    src: url("../assets/fonts/red-alert.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    background: #641220;
-    cursor: url(https://cdn.custom-cursor.com/db/19516/32/color-pixels-fcordovan-cursor.png), default !important;
+    background: #FB6F92;
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Baby_Pink_PixelCursor.png), default !important;
+
 }
 
 h1 {
     position: absolute;
     top: 3.5%;
     left: 13%;
-    color: #85182A;
+    color: #FB6F92;
     font-size: 40px;
     font-family: "red-alert", sans-serif;
+    /* font-family: "VT323", serif; */
+    
 }
 
 .window { /* Link to an "class" with the HTML file */
@@ -26,14 +29,12 @@ h1 {
     width: 80%;
 }
 
-.subtitle {
-    position: absolute;
-    top: 3.5%;
-    left: 13%;
-    font-size: 15px;
-    font-family: "red-alert", sans-serif;
-    color: rgb(199, 140, 151);
-    font-style: italic;
+.cherry {
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-111%, -50%);
+    width: 35%;
 }
 
 .petals {
@@ -44,12 +45,19 @@ h1 {
     width: 40%;
 }
 
-.rose {
-    position: absolute; 
-    top: 50%;
-    left: 50%;
-    transform: translate(-165%, -44%);
-    width: 20%;
+a { /* No blue color for the link */
+    color: inherit;
+    cursor: url(https://cdn.custom-cursor.com/db/pointer/32/Baby_Pink_PixelPointer.png), pointer !important;
+}
+
+.subtitle {
+    position: absolute;
+    top: 3.5%;
+    left: 13%;
+    font-size: 15px;
+    font-family: "red-alert", sans-serif;
+    color: rgb(134, 123, 125);
+    font-style: italic;
 }
 
 .facts {
@@ -58,13 +66,8 @@ h1 {
     left: 47%;
     font-size: 30px;
     font-family: "red-alert", sans-serif;
-    color: rgb(139, 35, 54);
+    color: rgb(216, 119, 137);
     max-width: 700px;
-}
-
-a { /* No blue color for the link */
-    color: inherit;
-    cursor: url(https://cdn.custom-cursor.com/db/19515/32/color-pixels-fcordovan-pointer.png), pointer !important;
 }
 
 footer {
@@ -77,3 +80,4 @@ footer {
     color: #ffffff;
     font-family: Arial, sans-serif;
 }
+
