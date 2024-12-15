@@ -1,6 +1,6 @@
 @font-face {
     font-family: "red-alert";
-    src: url("fonts/red-alert.ttf") format("truetype");
+    src: url("/fonts/red-alert.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
