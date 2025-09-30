@@ -1,4 +1,4 @@
-# 90s-Floral-Website 🌸/🌹  
+# 90s-Floral-Website 🌸/🌹 [![Codédex Challenge Badge](https://img.shields.io/badge/Codédex%20Hackathon-December%202024-FB6F92)](https://www.codedex.org/challenges/december-2024-hackathon) 
 My project for the Codédex Hackathon (December 2024): a cute and nostalgic 90s-style floral website featuring an herbarium with cherry blossoms and other flowers. This is also my first website! 🌸✨  
 
 #CodedexHackathon
